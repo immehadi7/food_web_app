@@ -1,0 +1,117 @@
+/*primary css*/
+body{
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;
+  
+}
+.flex{
+    display: flex;
+}
+.width{
+    width: 50%;
+}
+.topborder{
+  
+    
+}
+.text_side p{
+    color: rgb(51, 49, 49)
+    ;
+    font-size: 15px;
+}
+.text_side h1 {
+    font-weight: 900;
+    font-size: 50px;
+}
+h1{
+    font-weight: 700;
+}
+.ml{
+    margin-left: 170px;
+}
+section{
+    margin-bottom: 70px;
+}
+img{
+    width: 65%;
+}
+.btn{
+    text-decoration: none;
+    border: 1px solid #e84118;
+    background-color: #e84118;
+    color: #ffffff;
+    border-radius: 20px;
+    padding:0px 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+}
+.orang{
+    color: rgb(243, 186, 0);
+}
+/*about me css*/
+.aboutme{
+    background-image: url(img/Frame\ 58.jpg);
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll; 
+}
+.imgs img{
+    width: 30%;
+    margin-left: 150px;
+}
+.textside{
+    margin-left: -20px;
+    margin-right: 120px;
+}
+.textside h1{
+    font-size: 2rem;
+    font-weight: 900;
+}
+.textside p{
+    text-align: justify;
+}
+/*my recipie css*/
+.tc{
+    text-align: center;
+}
+.myrecipies h1{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.myrecipies p{
+    line-height: 1.5em;
+    color: #272727;
+    font-weight: 400;
+}
+.box{
+    width: 23%;
+    margin-left: 7%;
+    padding: 15px 20px;
+    box-shadow: 1px 1px 30px #5c5a5a;
+    border-radius: 20px;
+}
+
+
+.imgr img{
+    max-width: 100%;
+    border-radius: 20px;
+    text-align: center;
+}
+.mtop{
+    margin-top:7px;
+}
+/*bonus css*/
+.junktext p{
+    font-size: 1em;
+    color: #33313d;
+} 
+/*footer*/
+footer{
+    background-color: black;
+    color:#fcf4f4;
+    padding-top: 7px;
+    padding-bottom: 20px;
+    font-size: 1rem;
+}
